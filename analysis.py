@@ -1,8 +1,3 @@
-# Homework 1
-# Niedzialek Anna, 
-# CS 166, 
-# Spring 2025
-
 # Part 1: Frequency analysis
 # The following code analyzes the frequencies of most occurring single letters, bigrams, and trigrams in English
 

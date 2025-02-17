@@ -66,10 +66,13 @@ To run this program, you need:
 
 ## Secret-Key
 
-   ├── frequency_analysis.py  # Main Python script for frequency analysis
-   ├── ciphertext-o2.txt      # Example input file 1
-   ├── ciphertext2.txt        # Example input file 2
-   ├── README.md              # This README file
+├── frequency_analysis.py  # Main Python script for frequency analysis
+
+├── ciphertext-o2.txt      # Example input file 1
+
+├── ciphertext2.txt        # Example input file 2
+
+├── README.md              # This README file
 
 ---
 
